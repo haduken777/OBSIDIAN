@@ -55,29 +55,29 @@ The main objectives of this project were:
 ## 📸 Execution & Results
 
 ### 1. C Source Code & Makefile
-![[image-3.png]]
+![Image 3](image-3.png)
 
-![[image-4.png]]
+![Image 4](image-4.png)
 
-![[image-5.png]]
+![Image 5](image-5.png)
 
-![[image-6.png]]
+![Image 6](image-6.png)
 ### 2. Compilation 
 
-![[image-7.png]]
+![Image 7](image-7.png)
 ### 3. Module Loading & Verification
 
-![[image-1.png]]
+![Image 1](image-1.png)
 ### 4. Kernel Messages (Initialization & Values)
 
-![[image-8.png]]
+![Image 8](image-8.png)
 
-![[image-9.png]]
+![Image 9](image-9.png)
 
-![[image-10.png]]
+![Image 10](image-10.png)
 ### 5. User Space Communication
 
-![[image-18.png]]
+![Image 18](image-18.png)
 ### 6. Module Removal
 
-![[image-29.png]]
+![Image 29](image-29.png)
